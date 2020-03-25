@@ -1,0 +1,62 @@
+
+h1{
+	color: firebrick;
+	font-family: Arial Black;
+	text-align: center;
+}
+h2{
+	color: darkred;
+	font-family: arial;
+	padding-left:  40px;
+	
+}
+h3{
+	color: black;
+	font-family: arial;
+	padding-left:  60px;
+}
+
+p{
+	font-family: Sylfaen;
+	text-align: justify;
+	color: black;
+	padding-left:  30px;
+	padding-right:  30px;
+}
+.table1{
+	width: 100%; 
+    background: white; 
+
+}
+ .table2{	
+ 		width: 600px;
+  		height: 50px;
+ 		text-align: center;
+  		border-collapse: collapse;
+  		margin-left:  80px;
+   		padding: 5px;
+   		border: 1px solid grey;
+}
+.td2{
+ 		border: 1px solid grey;
+}
+.table3 {	
+ 		width: 600px;
+  		height: 50px;
+ 		text-align: center;
+  		border-collapse: collapse;
+  		margin-left:  80px;
+   		padding: 5px;
+   		border: 1px solid grey;
+}
+.table4{
+	width: 100%; 
+    background: white; 
+    margin-left:  20px;
+   	padding: 5px;
+}
+a{
+  	font-family: Sylfaen;
+  	color: darkred;
+}
+
